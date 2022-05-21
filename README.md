@@ -6,8 +6,8 @@
   <li>A javascript code was added to check mail validty.</li>
 </ul>  
 <div class="pics">
-  <img src="https://musatirgithub.github.io/CheckoutForm/CheckoutForm1.jpg">
-  <img src="https://musatirgithub.github.io/CheckoutForm/CheckoutForm2.jpg">
+  <img src="https://musatirgithub.github.io/CheckoutForm/CheckoutForm1.jpg" width="300px">
+  <img src="https://musatirgithub.github.io/CheckoutForm/CheckoutForm2.jpg" width="200px">
 </div>
 ![](https://musatirgithub.github.io/CheckoutForm/CheckoutForm1.jpg)
 ![](https://musatirgithub.github.io/CheckoutForm/CheckoutForm2.jpg)
