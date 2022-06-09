@@ -13,6 +13,8 @@
   <li>If user clicks remove button code removes element from DOM and function calculates total amount again,</li>
   <li>Gif image of the project is below 👇. Hope you like my project! All comments and contributions are welcomed!</li>
 </ul>  
+
+
 <div class="pics">
-  <img src="https://musatirgithub.github.io/CheckoutForm/Checkout.gif" width="600px">
+  <img src="https://musatirgithub.github.io/CheckoutForm/Checkout.gif" width="600px" style="margin-top:2rem">
 </div>
