@@ -11,7 +11,9 @@
   <li>When user clicks plus or minus buttons the amount of purchased item increases or decreases respectively,</li>
   <li>A fuction calculates checks whether there is any product in the cart or not then calculates the total amount, </li>
   <li>If user clicks remove button code removes element from DOM and function calculates total amount again,</li>
-  <li>Gif image of the project is below 👇. Hope you like my project! All comments and contributions are welcomed!</li>
+  <li>Gif image of the project is below 👇. </li>
+  <li>Hope you like my project!</li>
+  <li>All comments and contributions are welcomed!</li>
 </ul>  
 
 
