@@ -15,6 +15,6 @@
 </ul>  
 
 
-<div class="pics">
-  <img src="https://musatirgithub.github.io/CheckoutForm/Checkout.gif" width="600px" style="margin-top:2rem">
+<div class="pics" style="margin-top:20px">
+  <img src="https://musatirgithub.github.io/CheckoutForm/Checkout.gif" width="600px">
 </div>
