@@ -48,7 +48,7 @@ plus.forEach((a) => a.addEventListener('click', increase));
 function increase (){
     let product = this.parentElement.previousElementSibling.firstElementChild.innerText;
     data[product]['amount'] += 1;
-    this.nextElementSibling.innerText = data[product]['amount'];
+    this.previousElementSibling.innerText = data[product]['amount'];
     cartTotal ();
 }
 
@@ -59,7 +59,7 @@ function decrease () {
     let product = this.closest('.right').querySelector('.item').firstElementChild.innerText;
     if (data[product]['amount'] > 0){
         data[product]['amount'] -=1;
-        this.previousElementSibling.innerText = data[product]['amount'];
+        this.nextElementSibling.innerText = data[product]['amount'];
         cartTotal ();
     }
 }
