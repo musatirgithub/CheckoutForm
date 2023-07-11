@@ -3,7 +3,7 @@
 <ul>
   <li>First I've created a responsive web page by using pure HTML & CSS,</li>
   <li>As you can see in the gif image below project includes a form, </li>
-  <li>JavaScript code is added in order to check validty if e-mail address,</li>
+  <li>JavaScript code is added in order to check validty of e-mail address,</li>
   <li>Validity check includes a simple Regex statement,</li>
   <li>I've defined variables by using DOM querySelectorAll etc. ,</li>
   <li>For adding Event listeners to plus, minus icons and remove buttons I've used forEach method. I am aware that performance of capturing or bubling is better but in this projet I wanted to test if I can use forEach, </li>
